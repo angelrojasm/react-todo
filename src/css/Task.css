@@ -9,7 +9,7 @@
 .entry-text {
 	color: black;
 	margin-left: 5%;
-	font-size: 16px;
+	font-size: 15px;
 }
 
 .icons {
@@ -28,7 +28,7 @@
 }
 #check-icon,
 #trash-icon {
-	color: white;
+	color: black;
 }
 
 #check-icon:hover {
